@@ -1,12 +1,12 @@
-// $("#open").on("click", () => {
-//     $(".container").addClass("show-nav");
-//     $("#open").css("display", "none");
-// })
+$("#open").on("click", () => {
+    $(".container").addClass("show-nav");
+    $("#open").css("display", "none");
+})
 
-// $("#close").on("click", () => {
-//     $(".container").removeClass("show-nav");
-//     $("#open").css("display", "");
-// })
+$("#close").on("click", () => {
+    $(".container").removeClass("show-nav");
+    $("#open").css("display", "");
+})
 
 //Or
 
